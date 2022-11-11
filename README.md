@@ -1,8 +1,8 @@
 #### Hi, I am Simone Antonelli
 
-- 🎓 MSc Student @Sapienza University of Rome
-- 👀 I’m interested in **explainability** of **deep learning** models
-- 🌱 I’m currently working on **geometric deep learning**  
+- 🎓 Ph.D. Student @CISPA Helmholtz Center for Information Security
+- 👀 I’m interested in **trustworthy machine learning** with a focus on **GNNs** 
+- 🌱 I’m currently working on **geenerative models**  
 
 <div align="center">
 
